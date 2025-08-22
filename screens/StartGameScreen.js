@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
         marginTop:100,
         marginHorizontal:24,
         padding:16,
-        backgroundColor:'#50042aff',
+        backgroundColor:'#4b0327ff',
         borderRadius: 8,
         elevation:4,
         shadowColor:'black',
@@ -43,12 +43,12 @@ const styles = StyleSheet.create({
     numberInput:{
     height:50,
     width:50,
-    frontSize:40,
+    fontSize:28,
     borderBottomColor:"#ddb52f",
     borderBottomWidth:2,
     color:'#ddb52f',
     marginVertical:8,
-    frontWeight:'bold',
+    fontWeight:'bold',
     textAlign:'center',
     },
     buttonsContainer:{
